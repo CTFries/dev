@@ -1,0 +1,5 @@
+{ 
+    "accessKeyId": env.AWSID,
+    "secretAccessKey": env.AWSKEY,
+    "region": ENV.AWSREGION
+}
